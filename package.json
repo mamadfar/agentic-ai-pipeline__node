@@ -1,14 +1,14 @@
 {
   "name": "ai-pipeline",
   "version": "1.0.0",
-  "description": "",
+  "description": "An agentic AI Pipeline built with TypeScript, LangChain, LangGraph, OpenAI, Gemini",
   "main": "index.ts",
   "scripts": {
     "dev": "tsx src/index.ts",
     "dev:watch": "tsx watch src/index.ts"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["AI", "Pipeline", "TypeScript", "LangChain", "LangGraph", "OpenAI", "Gemini"],
+  "author": "Mohammad Farhadi",
   "license": "ISC",
   "type": "module",
   "dependencies": {
